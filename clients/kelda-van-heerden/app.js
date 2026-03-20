@@ -1,8 +1,7 @@
 (() => {
   function init() {
     // Your Webflow custom code here
-    console.log("Kelda script loaded");
-    alert("Hello, Webflow! This is your custom code running. Feel free to edit or remove it.");
+    console.log("Yo! Kelda script loaded.");
 	
 	gsap.registerPlugin(ScrollTrigger);
   
