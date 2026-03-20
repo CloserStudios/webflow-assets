@@ -1,7 +1,7 @@
 (() => {
   function init() {
     // Your Webflow custom code here
-    console.log("Yo! Kelda's custom code is running!");
+    console.log("Yo, yo, yo.");
 	
 	gsap.registerPlugin(ScrollTrigger);
   
